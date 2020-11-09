@@ -1,2 +1,1 @@
-# php-template-engine-guide
-Гайд по php шаблонизатору
+[Гайд по php шаблонизатору](https://github.com/Umisoft/php-template-engine-guide/wiki)
